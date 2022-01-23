@@ -1,0 +1,12 @@
+#identity ul {
+    list-style: none;
+}
+
+#identity img {
+    height: 200px;
+    width: auto;
+}
+
+div {
+    display: block;
+}
